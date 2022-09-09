@@ -2,8 +2,8 @@
 
 <div>
 <a href="#">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=grazifalk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifalk&layout=compact&langs_count=16&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=grazifalk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifalk&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div>
 <a href="https://instagram.com/grazifalk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
