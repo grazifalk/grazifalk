@@ -13,6 +13,8 @@
 
 ![Snake animation](https://github.com/grazifalk/grazifalk/blob/output/github-contribution-grid-snake.svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=grazifalk&label=Profile%20views&color=0e75b6&style=flat" alt="grazifalk" /> </p>
+
 <!--
 **grazifalk/grazifalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
