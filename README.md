@@ -11,13 +11,13 @@
 
 <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifalk&layout=compact&langs_count=16&theme=tokyonight"/>
 
-  
-  
+##
   
 <div>
 <img align="right" alt="Grazi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/489854983022575617/1019105462802731018/Screenshot_20220913-013840.png?width=676&height=676"></a>
 </div></br>
 <div>
+
 <h2>Connect with me</h2>
 <a href="https://instagram.com/grazifalk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:grazifalk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
