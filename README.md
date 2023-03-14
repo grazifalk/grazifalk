@@ -49,14 +49,14 @@
 <h2>GitHub Stats</h2>
 <div>
 <a href="https://github.com/grazifalk/">
-<img width="49%" src="https://github-readme-stats-grazi-grazifalk.vercel.app/api?username=grazifalk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-grazifalk.vercel.app/api?username=grazifalk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=grazifalk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight"/>
 </div>
 <div>
 <a href="https://github.com/grazifalk/">
 <img width="61%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grazifalk&theme=tokyonight"/>
 
-<img width="37%" src="https://github-readme-stats-grazi-grazifalk.vercel.app/api/top-langs/?username=grazifalk&layout=compact&langs_count=16&theme=tokyonight"/>
+<img width="37%" src="https://github-readme-stats-grazifalk.vercel.app//api/top-langs/?username=grazifalk&layout=compact&langs_count=16&theme=tokyonight"/>
 
 ##
     
