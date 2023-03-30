@@ -58,6 +58,8 @@
 
 <img width="37%" src="https://github-readme-stats-grazifalk.vercel.app//api/top-langs/?username=grazifalk&layout=compact&langs_count=16&theme=tokyonight"/>
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ##
     
 <h2>GitHub Trophies</h2>
